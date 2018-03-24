@@ -1,0 +1,6 @@
+server.port = 8090
+logging.level.org.springframework.security=INFO
+security.ignored=/**
+spring.security.enabled=false
+management.security.enabled=false
+security.basic.enabled=false

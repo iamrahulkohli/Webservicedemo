@@ -1,0 +1,18 @@
+INDEX VERSION 1.130+D:\New\webservicecamera\.metadata\.plugins\org.eclipse.jdt.core
+456741837.index
+3435648363.index
+2036768707.index
+1244443928.index
+2245903402.index
+382560284.index
+2129591331.index
+2108011969.index
+3535139997.index
+3308850672.index
+397533450.index
+4008763685.index
+1101564320.index
+2740219113.index
+3360501625.index
+184520698.index
+1898770667.index

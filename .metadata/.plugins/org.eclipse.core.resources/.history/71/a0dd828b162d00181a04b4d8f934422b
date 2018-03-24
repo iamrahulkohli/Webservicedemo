@@ -1,0 +1,9 @@
+package snippet;
+
+public class Snippet {
+
+	spring.security.enabled=false
+	management.security.enabled=false
+	security.basic.enabled=false
+}
+
